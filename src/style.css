@@ -7,8 +7,12 @@ body {
   background-color: bisque;
 }
 .links {
-  display: flex;
-  justify-content: space-evenly;
+  text-align: center;
+  margin: 50px;
+}
+
+.links a {
+  margin: 50px;
 }
 
 img {
